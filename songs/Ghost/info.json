@@ -1,5 +1,29 @@
 {
-    "title" : "Ghost",
-    "description" : "Has hits like Kinni-Kinni and Lalkaara",
-    "data" : "Ghost"
+    "title": "Ghost",
+    "description": "Has hits like Kinni-Kinni and Lalkaara",
+    "data": "Ghost",
+    "songs": [
+        "Amiri.mp3",
+        "Bad Habits.mp3",
+        "Case.mp3",
+        "Cry Later.mp3",
+        "Daytona.mp3",
+        "Drowning.mp3",
+        "Enlightenment.mp3",
+        "Feel My Love.mp3",
+        "Ghost.mp3",
+        "Icon.mp3",
+        "Infinite Return.mp3",
+        "Jatt Vailly.mp3",
+        "Kehkashan.mp3",
+        "Kinni Kinni.mp3",
+        "Lalkara.mp3",
+        "Midnight Desires.mp3",
+        "Poppin.mp3",
+        "Psychotic.mp3",
+        "Serenade.mp3",
+        "Stars.mp3",
+        "The Confession.mp3",
+        "Whatcha Doin.mp3"
+    ]
 }

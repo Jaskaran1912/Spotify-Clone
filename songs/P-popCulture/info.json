@@ -1,5 +1,18 @@
 {
-    "title" : "P-pop Culture",
-    "description" : "Latest Karan Aujla ALbum",
-    "data" : "P-popCulture"
+    "title": "P-pop Culture",
+    "description": "Latest Karan Aujla ALbum",
+    "data": "P-popCulture",
+    "songs": [
+        "7.7 Magnitude.mp3",
+        "Boyfriend.mp3",
+        "Daytona.mp3",
+        "Flip-Side (Sandys Interlude).mp3",
+        "For A Reason.mp3",
+        "HIM..mp3",
+        "I Really Do....mp3",
+        "Ima Do My Thiiing.mp3",
+        "MF Gabbru!.mp3",
+        "P-POP CULTURE.mp3",
+        "Youre U Tho.mp3"
+    ]
 }

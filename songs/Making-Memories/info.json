@@ -1,5 +1,16 @@
 {
-    "title" : "Making Memories",
-    "description" : "Karan Aujla's first album ot go superhit across the globe",
-    "data" : "Making-Memories"
+    "title": "Making Memories",
+    "description": "Karan Aujla's first album ot go superhit across the globe",
+    "data": "Making-Memories",
+    "songs": [
+        "Admirin' You (feat. Preston Pablo).mp3",
+        "Bachke Bachke (feat. Yarah).mp3",
+        "Champion's Anthem.mp3",
+        "Girl, I Love You (Euro's Intro).mp3",
+        "Jee Ni Lagda.mp3",
+        "Softly.mp3",
+        "Try Me.mp3",
+        "What...?.mp3",
+        "You.mp3"
+    ]
 }

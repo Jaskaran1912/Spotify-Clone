@@ -1,5 +1,23 @@
 {
-    "title" : "G.O.A.T",
-    "description" : "Diljit's comeback album after covid hit",
-    "data" : "Goat"
+    "title": "G.O.A.T",
+    "description": "Diljit's comeback album after covid hit",
+    "data": "Goat",
+    "songs": [
+        "Akh Lal Jatt Di.mp3",
+        "Born To Shine.mp3",
+        "Clash.mp3",
+        "Farrar.mp3",
+        "G.O.A.T.mp3",
+        "Habit.mp3",
+        "Intro.mp3",
+        "Jatti.mp3",
+        "Navi Navi Yaari.mp3",
+        "Patola.mp3",
+        "Peed.mp3",
+        "Pyaar.mp3",
+        "Range.mp3",
+        "Taare.mp3",
+        "Track Suit.mp3",
+        "Whisky.mp3"
+    ]
 }

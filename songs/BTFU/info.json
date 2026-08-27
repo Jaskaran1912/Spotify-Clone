@@ -1,5 +1,18 @@
 {
-    "title" : "B.T.F.U",
-    "description" : "Aujla's first album having banger punjabi folk beats",
-    "data": "btfu"
+    "title": "B.T.F.U",
+    "description": "Aujla's first album having banger punjabi folk beats",
+    "data": "btfu",
+    "songs": [
+        "80 Degrees.mp3",
+        "Addi Sunni.mp3",
+        "Boli (Guns Up).mp3",
+        "Click That B Kickin It (Yaar Jatt De).mp3",
+        "Feel The Flava (Itz All Good).mp3",
+        "Ford (Loud AF).mp3",
+        "Here N There.mp3",
+        "Intro.mp3",
+        "It Aint Legal Ft. Gurlej Akhtar.mp3",
+        "Itz A Hustle.mp3",
+        "Sharab Ft. Harjit Harman.mp3"
+    ]
 }

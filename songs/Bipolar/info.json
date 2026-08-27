@@ -1,5 +1,20 @@
 {
-    "title" : "Bipolar",
-    "description" : "Navaan Sandhu's latest album topping Billboard charts with a great hit of pop and hip-hop.",
-    "data" : "Bipolar"
+    "title": "Bipolar",
+    "description": "Navaan Sandhu's latest album topping Billboard charts with a great hit of pop and hip-hop.",
+    "data": "Bipolar",
+    "songs": [
+        "Bodyguard.mp3",
+        "Boozed Up.mp3",
+        "City Dreams.mp3",
+        "Headliner.mp3",
+        "Hood Ambience.mp3",
+        "Kaare.mp3",
+        "Kath Lagda.mp3",
+        "Moodshift.mp3",
+        "Naveezy Era.mp3",
+        "She Aint Easy.mp3",
+        "Star Girl.mp3",
+        "Yaad.mp3",
+        "Yaara Ve Yaara.mp3"
+    ]
 }
