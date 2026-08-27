@@ -1,0 +1,63 @@
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.items-center{
+    align-items: center;
+}
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.rounded{
+    border-radius: 7px;
+}
+.m-1{
+    margin: 5px;
+}
+.p-1{
+    padding: 10px;
+}
+/* Modern Standard (Firefox & modern browsers) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #535353 #121212;
+}
+
+/* WebKit & Chromium Browsers (Chrome, Edge, Safari, Opera) */
+::-webkit-scrollbar {
+  width: 8px; /* Vertical width only */
+}
+
+/* Completely disable the horizontal scrollbar element */
+::-webkit-scrollbar:horizontal {
+  display: none;
+}
+
+/* Background track (dark surface) */
+::-webkit-scrollbar-track {
+  background: #121212;
+}
+
+/* Scroll thumb handle */
+::-webkit-scrollbar-thumb {
+  background-color: #535353;
+  border-radius: 4px;
+  border: 2px solid #121212;
+}
+
+/* Scroll thumb on hover */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #727272;
+}
+
+/* Scroll thumb when actively dragged */
+::-webkit-scrollbar-thumb:active {
+  background-color: #a7a7a7;
+}
